@@ -1,2 +1,3 @@
-Hi Logan is feelin like a 1337 haxxor
-hey keith
+hey Keith if nothing more than this will serve as a reminder to myself but it you see this that cool. while i know javascript and jquery I'm having trouble integrating them into my html files. furthermore last meeting it looked like you accessed all of you programs (in your repo) via a directory of some sort. my question to you is how did you get your files to that directory. I'm sure that i sound like a total n00b and thats because i am a n00b. thx in advance.
+yours truly,
+Logan beard
